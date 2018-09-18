@@ -1,0 +1,1 @@
+../../../../../Documents/Kaitai/Formats/Rune Factory Frontier/out/runefactory_data_offsets_lengths.py
